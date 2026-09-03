@@ -1,0 +1,967 @@
+[
+  {
+    "id": "s1",
+    "key": "fresh",
+    "nameAr": "عصائر فريش",
+    "type": "dual",
+    "items": [
+      {
+        "id": "s1-1",
+        "nameAr": "مانجا فريش",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s1-2",
+        "nameAr": "جوافة",
+        "s": 120,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s1-3",
+        "nameAr": "فراولة",
+        "s": 120,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s1-4",
+        "nameAr": "كيوي",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s1-5",
+        "nameAr": "بطيخ",
+        "s": 160,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-6",
+        "nameAr": "بطيخ نعناع",
+        "s": 90,
+        "l": 110,
+        "available": true
+      },
+      {
+        "id": "s1-7",
+        "nameAr": "ليمون",
+        "s": 80,
+        "l": 90,
+        "available": true
+      },
+      {
+        "id": "s1-8",
+        "nameAr": "ليمون نعناع",
+        "s": 90,
+        "l": 100,
+        "available": true
+      },
+      {
+        "id": "s1-9",
+        "nameAr": "خوخ",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-10",
+        "nameAr": "برقوق",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-11",
+        "nameAr": "تفاح",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-12",
+        "nameAr": "كانتالوب",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-13",
+        "nameAr": "بلح",
+        "s": 140,
+        "l": 160,
+        "available": true
+      },
+      {
+        "id": "s1-14",
+        "nameAr": "موز",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-15",
+        "nameAr": "عنب",
+        "s": 100,
+        "l": 130,
+        "available": true
+      },
+      {
+        "id": "s1-16",
+        "nameAr": "دراجون باشون",
+        "s": 200,
+        "l": 220,
+        "available": true
+      },
+      {
+        "id": "s1-17",
+        "nameAr": "كركديه",
+        "s": 90,
+        "l": 100,
+        "available": true
+      },
+      {
+        "id": "s1-18",
+        "nameAr": "تين شوكي",
+        "s": 120,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s1-19",
+        "nameAr": "اناناس",
+        "s": 120,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s1-20",
+        "nameAr": "جزر",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s1-21",
+        "nameAr": "جرجير",
+        "s": 60,
+        "l": 80,
+        "available": true
+      },
+      {
+        "id": "s1-22",
+        "nameAr": "دراجون",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s1-23",
+        "nameAr": "خوخ اناناس",
+        "s": 120,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s1-24",
+        "nameAr": "دراجون مانجو",
+        "s": 180,
+        "l": 220,
+        "available": true
+      },
+      {
+        "id": "s1-25",
+        "nameAr": "باشون",
+        "s": 100,
+        "l": 110,
+        "available": true
+      },
+      {
+        "id": "s1-1788459992003",
+        "nameAr": "برتقال",
+        "s": 130,
+        "l": 160,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "key": "mixfresh",
+    "nameAr": "مكسات عصائر الفريش",
+    "type": "dual",
+    "items": [
+      {
+        "id": "s2-1",
+        "nameAr": "مانجا كيوي",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-2",
+        "nameAr": "مانجا برتقال",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s2-3",
+        "nameAr": "مانجا باشون",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s2-4",
+        "nameAr": "مانجا فراولة",
+        "s": 120,
+        "l": 140,
+        "available": true
+      },
+      {
+        "id": "s2-5",
+        "nameAr": "مانجا اناناس",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s2-6",
+        "nameAr": "مانجا جوافة",
+        "s": 120,
+        "l": 140,
+        "available": true
+      },
+      {
+        "id": "s2-7",
+        "nameAr": "بطيخ اناناس كيوي",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-8",
+        "nameAr": "زا بيتش",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-9",
+        "nameAr": "فورسيزون",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-10",
+        "nameAr": "بلاك بيري",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s2-11",
+        "nameAr": "باي بيتش",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s2-12",
+        "nameAr": "فور بيتش",
+        "s": 200,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s2-13",
+        "nameAr": "جرين",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-14",
+        "nameAr": "موز كاجو",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-15",
+        "nameAr": "مينت جوس",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-16",
+        "nameAr": "فلوريدا",
+        "s": 150,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-17",
+        "nameAr": "افوكادو عسل مكسرات",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-18",
+        "nameAr": "افوكادو مانجا",
+        "s": 200,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s2-19",
+        "nameAr": "افوكادو فلوريدا",
+        "s": 300,
+        "l": 350,
+        "available": true
+      },
+      {
+        "id": "s2-20",
+        "nameAr": "افوكادو موز",
+        "s": 180,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s2-21",
+        "nameAr": "باور بوم",
+        "s": 450,
+        "l": 490,
+        "available": true
+      },
+      {
+        "id": "s2-22",
+        "nameAr": "افوكادو هايبر",
+        "s": 280,
+        "l": 300,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "key": "smoothie",
+    "nameAr": "الاسموزي",
+    "type": "dual",
+    "items": [
+      {
+        "id": "s3-1",
+        "nameAr": "مانجا فراولة مع جوافة",
+        "s": 150,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-2",
+        "nameAr": "جوافة",
+        "s": 150,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-3",
+        "nameAr": "فراولة",
+        "s": 150,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-4",
+        "nameAr": "كيوي",
+        "s": 180,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s3-5",
+        "nameAr": "بطيخ",
+        "s": 150,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-6",
+        "nameAr": "بطيخ نعناع",
+        "s": 160,
+        "l": 190,
+        "available": true
+      },
+      {
+        "id": "s3-7",
+        "nameAr": "ليمون",
+        "s": 100,
+        "l": 140,
+        "available": true
+      },
+      {
+        "id": "s3-8",
+        "nameAr": "ليمون نعناع",
+        "s": 100,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s3-9",
+        "nameAr": "خوخ",
+        "s": 140,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-10",
+        "nameAr": "برقوق",
+        "s": 140,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-11",
+        "nameAr": "موز",
+        "s": 100,
+        "l": 150,
+        "available": true
+      },
+      {
+        "id": "s3-12",
+        "nameAr": "كانتالوب",
+        "s": 150,
+        "l": 180,
+        "available": true
+      },
+      {
+        "id": "s3-13",
+        "nameAr": "اناناس",
+        "s": 220,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s3-14",
+        "nameAr": "مانجا باشون",
+        "s": 150,
+        "l": 200,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "key": "milkshake",
+    "nameAr": "الميلك تشيك",
+    "type": "dual",
+    "items": [
+      {
+        "id": "s4-1",
+        "nameAr": "نوتيلا",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s4-2",
+        "nameAr": "فانيليا",
+        "s": 150,
+        "l": 170,
+        "available": true
+      },
+      {
+        "id": "s4-3",
+        "nameAr": "اوريو",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s4-4",
+        "nameAr": "لوتس",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s4-5",
+        "nameAr": "بطيخ",
+        "s": 190,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s4-6",
+        "nameAr": "فراولة",
+        "s": 170,
+        "l": 200,
+        "available": true
+      },
+      {
+        "id": "s4-7",
+        "nameAr": "موز",
+        "s": 190,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s4-8",
+        "nameAr": "خوخ",
+        "s": 190,
+        "l": 250,
+        "available": true
+      },
+      {
+        "id": "s4-9",
+        "nameAr": "سنيكرز",
+        "s": 300,
+        "l": 350,
+        "available": true
+      },
+      {
+        "id": "s4-10",
+        "nameAr": "جلاكسي",
+        "s": 300,
+        "l": 350,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "key": "special",
+    "nameAr": "الاسبشيال",
+    "type": "single",
+    "items": [
+      {
+        "id": "s5-1",
+        "nameAr": "اسبشيال فارس",
+        "price": 850,
+        "available": true
+      },
+      {
+        "id": "s5-2",
+        "nameAr": "اسبشيال الامبراطور",
+        "price": 600,
+        "available": true
+      },
+      {
+        "id": "s5-3",
+        "nameAr": "اسبشيال VIP دبي",
+        "price": 1000,
+        "available": true
+      },
+      {
+        "id": "s5-4",
+        "nameAr": "اسبشيال تشك",
+        "price": 780,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "key": "fruitplate",
+    "nameAr": "طبق الفاكهة",
+    "type": "single",
+    "items": [
+      {
+        "id": "s6-1",
+        "nameAr": "طبق فاكهة عادي",
+        "price": 200,
+        "available": true
+      },
+      {
+        "id": "s6-2",
+        "nameAr": "طبق فاكهة وسط",
+        "price": 300,
+        "available": true
+      },
+      {
+        "id": "s6-3",
+        "nameAr": "طبق فاكهة مميز",
+        "price": 500,
+        "available": true
+      },
+      {
+        "id": "s6-4",
+        "nameAr": "طبق فاكهة فارس",
+        "price": 650,
+        "available": true
+      },
+      {
+        "id": "s6-5",
+        "nameAr": "طبق فاكهة VIP",
+        "price": 800,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s7",
+    "key": "mojito",
+    "nameAr": "الموهيتو",
+    "type": "single",
+    "items": [
+      {
+        "id": "s7-1",
+        "nameAr": "سكوتش مينت",
+        "price": 120,
+        "available": true
+      },
+      {
+        "id": "s7-2",
+        "nameAr": "موهيتو فليفر",
+        "price": 150,
+        "available": true
+      },
+      {
+        "id": "s7-3",
+        "nameAr": "مكس ريد بول",
+        "price": 200,
+        "available": true
+      },
+      {
+        "id": "s7-4",
+        "nameAr": "بلو هاواي",
+        "price": 300,
+        "available": true
+      },
+      {
+        "id": "s7-5",
+        "nameAr": "بينا كولادا",
+        "price": 300,
+        "available": true
+      },
+      {
+        "id": "s7-6",
+        "nameAr": "سويم بيتش",
+        "price": 150,
+        "available": true
+      },
+      {
+        "id": "s7-7",
+        "nameAr": "ميد نايت",
+        "price": 150,
+        "available": true
+      },
+      {
+        "id": "s7-8",
+        "nameAr": "بيري بوست",
+        "price": 150,
+        "available": true
+      },
+      {
+        "id": "s7-9",
+        "nameAr": "صن شاين",
+        "price": 200,
+        "available": true
+      },
+      {
+        "id": "s7-10",
+        "nameAr": "صن رايز",
+        "price": 200,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s8",
+    "key": "icecoffee",
+    "nameAr": "الايس كوفي",
+    "type": "single",
+    "items": [
+      {
+        "id": "s8-1",
+        "nameAr": "امريكان كوفي",
+        "price": 130,
+        "available": true
+      },
+      {
+        "id": "s8-2",
+        "nameAr": "امريكان حليب",
+        "price": 140,
+        "available": true
+      },
+      {
+        "id": "s8-3",
+        "nameAr": "ميكاتو",
+        "price": 110,
+        "available": true
+      },
+      {
+        "id": "s8-4",
+        "nameAr": "كابتشينو",
+        "price": 170,
+        "available": true
+      },
+      {
+        "id": "s8-5",
+        "nameAr": "لاتيه",
+        "price": 140,
+        "available": true
+      },
+      {
+        "id": "s8-6",
+        "nameAr": "اسبانش لاتيه",
+        "price": 180,
+        "available": true
+      },
+      {
+        "id": "s8-7",
+        "nameAr": "فرابيه",
+        "price": 200,
+        "available": true
+      },
+      {
+        "id": "s8-8",
+        "nameAr": "فرابتشينو",
+        "price": 260,
+        "available": true
+      },
+      {
+        "id": "s8-9",
+        "nameAr": "فرابتشينو موكا",
+        "price": 275,
+        "available": true
+      },
+      {
+        "id": "s8-10",
+        "nameAr": "فرابتشينو فليفر",
+        "price": 275,
+        "available": true
+      },
+      {
+        "id": "s8-11",
+        "nameAr": "كراميل لاتيه",
+        "price": 160,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s9",
+    "key": "coffee",
+    "nameAr": "القهوة",
+    "type": "single",
+    "items": [
+      {
+        "id": "s9-1",
+        "nameAr": "اسبريسو",
+        "price": 80,
+        "available": true
+      },
+      {
+        "id": "s9-2",
+        "nameAr": "اسبريسو دبل",
+        "price": 100,
+        "available": true
+      },
+      {
+        "id": "s9-3",
+        "nameAr": "نسكافيه حليب",
+        "price": 75,
+        "available": true
+      },
+      {
+        "id": "s9-4",
+        "nameAr": "نسكافيه",
+        "price": 60,
+        "available": true
+      },
+      {
+        "id": "s9-5",
+        "nameAr": "امريكان كوفي",
+        "price": 120,
+        "available": true
+      },
+      {
+        "id": "s9-6",
+        "nameAr": "امريكان حليب",
+        "price": 160,
+        "available": true
+      },
+      {
+        "id": "s9-7",
+        "nameAr": "ميكاتو سنجل",
+        "price": 85,
+        "available": true
+      },
+      {
+        "id": "s9-8",
+        "nameAr": "ميكاتو دبل",
+        "price": 140,
+        "available": true
+      },
+      {
+        "id": "s9-9",
+        "nameAr": "قهوه",
+        "price": 40,
+        "available": true
+      },
+      {
+        "id": "s9-10",
+        "nameAr": "قهوه تركي",
+        "price": 50,
+        "available": true
+      },
+      {
+        "id": "s9-11",
+        "nameAr": "قهوه تركي دبل",
+        "price": 70,
+        "available": true
+      },
+      {
+        "id": "s9-12",
+        "nameAr": "قهوه بندق",
+        "price": 120,
+        "available": true
+      },
+      {
+        "id": "s9-13",
+        "nameAr": "قهوه فرنساوي",
+        "price": 70,
+        "available": true
+      },
+      {
+        "id": "s9-14",
+        "nameAr": "قهوه فرنساوي دبل",
+        "price": 90,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s10",
+    "key": "tea",
+    "nameAr": "الشاي",
+    "type": "single",
+    "items": [
+      {
+        "id": "s10-1",
+        "nameAr": "شاي احمر",
+        "price": 35,
+        "available": true
+      },
+      {
+        "id": "s10-2",
+        "nameAr": "شاي اخضر",
+        "price": 35,
+        "available": true
+      },
+      {
+        "id": "s10-3",
+        "nameAr": "شاي نعناع",
+        "price": 35,
+        "available": true
+      },
+      {
+        "id": "s10-4",
+        "nameAr": "براد شاي",
+        "price": 60,
+        "available": true
+      },
+      {
+        "id": "s10-5",
+        "nameAr": "براد شاي VIP",
+        "price": 80,
+        "available": true
+      },
+      {
+        "id": "s10-6",
+        "nameAr": "ينسون",
+        "price": 35,
+        "available": true
+      },
+      {
+        "id": "s10-7",
+        "nameAr": "كركديه",
+        "price": 35,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s11",
+    "key": "icecream",
+    "nameAr": "الايس كريم",
+    "type": "balls",
+    "items": [
+      {
+        "id": "s11-1",
+        "nameAr": "بستاشيو",
+        "available": true
+      },
+      {
+        "id": "s11-2",
+        "nameAr": "اوريو",
+        "available": true
+      },
+      {
+        "id": "s11-3",
+        "nameAr": "فانيليا",
+        "available": true
+      },
+      {
+        "id": "s11-4",
+        "nameAr": "فراولة",
+        "available": true
+      },
+      {
+        "id": "s11-5",
+        "nameAr": "مانجا",
+        "available": true
+      },
+      {
+        "id": "s11-6",
+        "nameAr": "نوتيلا",
+        "available": true
+      },
+      {
+        "id": "s11-7",
+        "nameAr": "شوكولاته",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": "s12",
+    "key": "kunafa",
+    "nameAr": "الكنافة",
+    "type": "single",
+    "items": [
+      {
+        "id": "s12-1",
+        "nameAr": "كنافة بالقشطة سمن بلدي",
+        "price": 500,
+        "available": true
+      },
+      {
+        "id": "s12-2",
+        "nameAr": "كنافة بالقشطة سمن عادي",
+        "price": 400,
+        "available": true
+      },
+      {
+        "id": "s12-3",
+        "nameAr": "كنافة بالجبن سمن بلدي",
+        "price": 600,
+        "available": true
+      },
+      {
+        "id": "s12-4",
+        "nameAr": "كنافة بالجبن سمن عادي",
+        "price": 500,
+        "available": true
+      }
+    ]
+  }
+]
